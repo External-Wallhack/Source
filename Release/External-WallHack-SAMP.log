@@ -1,0 +1,11 @@
+﻿  main.cpp
+G:\work\C++\External-WallHack-SAMP\Draw.h(110,23): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+G:\work\C++\External-WallHack-SAMP\Draw.h(111,24): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+G:\work\C++\External-WallHack-SAMP\main.cpp(433,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+G:\work\C++\External-WallHack-SAMP\main.cpp(433,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 418 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  External-WallHack-SAMP.vcxproj -> G:\work\C++\External-WallHack-SAMP\Release\External-WallHack-SAMP.exe
